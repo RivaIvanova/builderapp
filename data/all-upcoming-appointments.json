@@ -1,0 +1,62 @@
+[
+  {
+    "WorkerID": 1,
+    "Rating": 5,
+    "Description": "The kitchen sink has a persistent leak that needs fixing. The client has tried to tighten the connections but the leak persists.",
+    "Worker": "Beth Allen",
+    "Role": "Plumber",
+    "Date": "12/10/2024",
+    "Time": "09:30AM",
+    "Avatar": "https://i.ibb.co/hXYz9WM/avatar-4.jpg"
+  },
+  {
+    "WorkerID": 2,
+    "Rating": 4.8,
+    "Description": "Several outlets in the living room are not working. The client suspects there might be an issue with the wiring.",
+    "Worker": "John Smith",
+    "Role": "Electrician",
+    "Date": "13/10/2024",
+    "Time": "11:00AM",
+    "Avatar": "https://i.ibb.co/VDm0fMg/avatar-15.jpg"
+  },
+  {
+    "WorkerID": 3,
+    "Rating": 4.9,
+    "Description": "The client needs custom shelves built in the study room. They have specific dimensions and design in mind.",
+    "Worker": "Maria Garcia",
+    "Role": "Carpenter",
+    "Date": "14/10/2024",
+    "Time": "02:00PM",
+    "Avatar": "https://i.ibb.co/FKRLq2w/avatar-16.jpg"
+  },
+  {
+    "WorkerID": 4,
+    "Rating": 4.7,
+    "Description": "The client wants to repaint the living room and fix some minor wall cracks. They need help with both tasks.",
+    "Worker": "Alex Johnson",
+    "Role": "Handyman",
+    "Date": "15/10/2024",
+    "Time": "10:00AM",
+    "Avatar": "https://i.ibb.co/qJVj0Pd/avatar-26.jpg"
+  },
+  {
+    "WorkerID": 5,
+    "Rating": 4,
+    "Description": "The air conditioning unit is not cooling properly. It might need a refrigerant refill or a filter change.",
+    "Worker": "John Doe",
+    "Role": "HVAC Technician",
+    "Date": "15/10/2024",
+    "Time": "12:00PM",
+    "Avatar": "https://i.ibb.co/LNN0vG7/avatar-18.jpg"
+  },
+  {
+    "WorkerID": 6,
+    "Rating": 5,
+    "Description": "The living room light fixture is flickering and needs to be checked for loose wiring.",
+    "Worker": "Jane Smith",
+    "Role": "Electrician",
+    "Date": "17/10/2024",
+    "Time": "11:00AM",
+    "Avatar": "https://i.ibb.co/GnSjGsX/avatar-24.jpg"
+  }
+]

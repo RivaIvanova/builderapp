@@ -1,0 +1,37 @@
+{
+  "ProjectID": 1,
+  "Course": "Be Your Own Handywoman Master Class",
+  "Image": "https://i.ibb.co/PWnJRnp/01-handywoman.jpg",
+  "Rating": 5,
+  "Tag": "General DIY",
+  "Level": "Beginner",
+  "Intro": "Learn essential DIY skills from a licensed contractor.",
+  "Description": "This comprehensive course covers tool basics, plumbing, carpentry, electrical work, and more. Perfect for anyone looking to become self-reliant and confident in home repairs.",
+  "Lecturer": "Beth Allen",
+  "Role": "Licensed Contractor and DIY Expert",
+  "Avatar": "https://i.ibb.co/F6PYLR0/avatar-25.jpg",
+  "StepsCount": 5,
+  "StepsTime": "60min",
+  "Steps": [
+    {
+      "title": "Gather Your Tools",
+      "description": "Start by assembling a basic toolkit. Essential tools include a hammer, screwdrivers (both flathead and Phillips), pliers, a tape measure, a utility knife, and a level. Having these tools on hand will prepare you for a variety of tasks."
+    },
+    {
+      "title": "Learn Basic Plumbing",
+      "description": "Understand the fundamentals of plumbing, such as fixing a leaky faucet, unclogging drains, and replacing showerheads. Familiarize yourself with tools like a pipe wrench, plunger, and plumber's tape."
+    },
+    {
+      "title": "Master Carpentry Skills",
+      "description": "Get comfortable with basic carpentry tasks like measuring, cutting, and assembling wood. Learn to use a saw, drill, and sander. Start with simple projects like building a shelf or repairing a wooden chair."
+    },
+    {
+      "title": "Understand Electrical Work",
+      "description": "Learn the basics of electrical work, including how to safely replace outlets, install light fixtures, and understand your home's wiring. Essential tools include a voltage tester, wire strippers, and electrical tape."
+    },
+    {
+      "title": "Practice and Expand Your Skills",
+      "description": "Apply what you've learned by taking on small projects around your home. As you gain confidence, tackle more complex tasks. Continue to expand your knowledge by reading DIY guides and watching tutorial videos."
+    }
+  ]
+}

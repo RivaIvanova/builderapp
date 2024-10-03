@@ -1,0 +1,460 @@
+[
+  {
+    "ProjectID": 1,
+    "Course": "Be Your Own Handywoman Master Class",
+    "Image": "https://i.ibb.co/PWnJRnp/01-handywoman.jpg",
+    "Rating": 5,
+    "Tag": "General DIY",
+    "Level": "Beginner",
+    "Intro": "Learn essential DIY skills from a licensed contractor.",
+    "Description": "This comprehensive course covers tool basics, plumbing, carpentry, electrical work, and more. Perfect for anyone looking to become self-reliant and confident in home repairs.",
+    "Lecturer": "Beth Allen",
+    "Role": "Licensed Contractor and DIY Expert",
+    "Avatar": "https://i.ibb.co/F6PYLR0/avatar-25.jpg",
+    "StepsCount": 5,
+    "StepsTime": "60min",
+    "Steps": [
+      {
+        "title": "Gather Your Tools",
+        "description": "Start by assembling a basic toolkit. Essential tools include a hammer, screwdrivers (both flathead and Phillips), pliers, a tape measure, a utility knife, and a level. Having these tools on hand will prepare you for a variety of tasks."
+      },
+      {
+        "title": "Learn Basic Plumbing",
+        "description": "Understand the fundamentals of plumbing, such as fixing a leaky faucet, unclogging drains, and replacing showerheads. Familiarize yourself with tools like a pipe wrench, plunger, and plumber's tape."
+      },
+      {
+        "title": "Master Carpentry Skills",
+        "description": "Get comfortable with basic carpentry tasks like measuring, cutting, and assembling wood. Learn to use a saw, drill, and sander. Start with simple projects like building a shelf or repairing a wooden chair."
+      },
+      {
+        "title": "Understand Electrical Work",
+        "description": "Learn the basics of electrical work, including how to safely replace outlets, install light fixtures, and understand your home's wiring. Essential tools include a voltage tester, wire strippers, and electrical tape."
+      },
+      {
+        "title": "Practice and Expand Your Skills",
+        "description": "Apply what you've learned by taking on small projects around your home. As you gain confidence, tackle more complex tasks. Continue to expand your knowledge by reading DIY guides and watching tutorial videos."
+      }
+    ]
+  },
+  {
+    "ProjectID": 2,
+    "Course": "DIY Home Improvement: Plumbing Basics",
+    "Image": "https://i.ibb.co/CKKR3vd/02-plumbing.jpg",
+    "Rating": 4.8,
+    "Tag": "Plumbing",
+    "Level": "Beginner",
+    "Intro": "Master the basics of home plumbing.",
+    "Description": "Learn how to fix leaks, replace faucets, and understand your home’s water system.",
+    "Lecturer": "John Doe",
+    "Role": "Professional Plumber",
+    "Avatar": "https://i.ibb.co/Tw6mPMz/avatar-17.jpg",
+    "StepsCount": 7,
+    "StepsTime": "1h30min",
+    "Steps": [
+      {
+        "title": "Understand Your Plumbing System",
+        "description": "Familiarize yourself with the layout of your home's plumbing system. Identify the main water shut-off valve, water heater, and the location of major pipes and fixtures."
+      },
+      {
+        "title": "Learn to Fix Leaky Faucets",
+        "description": "Start with the basics by learning how to fix a leaky faucet. This involves understanding different types of faucets (compression, ball, cartridge, and ceramic disk) and how to replace washers and O-rings."
+      },
+      {
+        "title": "Unclog Drains",
+        "description": "Learn various methods to unclog drains, such as using a plunger, a drain snake, or a chemical drain cleaner. Understand the pros and cons of each method and when to use them."
+      },
+      {
+        "title": "Replace Showerheads and Faucets",
+        "description": "Gain the skills to replace old showerheads and faucets. This includes turning off the water supply, removing the old fixture, and installing the new one securely."
+      },
+      {
+        "title": "Fix Running Toilets",
+        "description": "Understand the common causes of a running toilet, such as a faulty flapper, fill valve, or flush valve. Learn how to diagnose the issue and replace the necessary parts."
+      },
+      {
+        "title": "Repair Pipe Leaks",
+        "description": "Learn how to identify and repair minor pipe leaks. This includes using pipe repair clamps, epoxy putty, and understanding when to call a professional for more serious issues."
+      },
+      {
+        "title": "Maintain Your Plumbing System",
+        "description": "Regular maintenance can prevent major plumbing issues. Learn how to inspect your plumbing system for signs of wear and tear, clean aerators, and flush your water heater to remove sediment buildup."
+      }
+    ]
+  },
+  {
+    "ProjectID": 3,
+    "Course": "Carpentry & Trim Work for Beginners",
+    "Image": "https://i.ibb.co/3NshgXM/03-carpentry.jpg",
+    "Rating": 4.7,
+    "Tag": "Carpentry",
+    "Level": "Beginner",
+    "Intro": "Get started with basic carpentry skills.",
+    "Description": "Learn to select the right wood, install trim, and complete various carpentry projects.",
+    "Lecturer": "Mike Johnson",
+    "Role": "Master Carpenter",
+    "Avatar": "https://i.ibb.co/GR0qJZb/avatar-23.jpg",
+    "StepsCount": 8,
+    "StepsTime": "1h45min",
+    "Steps": [
+      {
+        "title": "Gather Essential Tools",
+        "description": "Start by assembling a basic carpentry toolkit. Essential tools include a saw, hammer, tape measure, square, level, chisel set, and a variety of nails and screws."
+      },
+      {
+        "title": "Learn to Measure and Mark",
+        "description": "Accurate measurements are crucial in carpentry. Practice using a tape measure and marking tools to ensure precision in your cuts and assemblies."
+      },
+      {
+        "title": "Understand Wood Types and Uses",
+        "description": "Familiarize yourself with different types of wood and their uses. Learn about hardwoods, softwoods, and engineered wood products, and how to choose the right material for your project."
+      },
+      {
+        "title": "Master Basic Cutting Techniques",
+        "description": "Learn how to make straight cuts, miter cuts, and bevel cuts using a handsaw or power saw. Practice cutting scrap wood to improve your skills."
+      },
+      {
+        "title": "Practice Joinery Techniques",
+        "description": "Explore basic joinery methods such as butt joints, miter joints, and dovetail joints. Practice creating these joints to understand their strengths and applications."
+      },
+      {
+        "title": "Install Trim and Molding",
+        "description": "Learn how to measure, cut, and install trim and molding. This includes baseboards, crown molding, and window and door casings. Practice making precise cuts and fitting pieces together seamlessly."
+      },
+      {
+        "title": "Sand and Finish Wood",
+        "description": "Understand the importance of sanding and finishing wood. Learn how to use different grits of sandpaper and apply finishes like stain, varnish, or paint to protect and enhance your projects."
+      },
+      {
+        "title": "Take on Small Projects",
+        "description": "Start with simple projects like building a shelf, a picture frame, or a small table. These projects will help you apply your skills and gain confidence in your abilities."
+      }
+    ]
+  },
+  {
+    "ProjectID": 4,
+    "Course": "Electrical Basics for DIYers",
+    "Image": "https://i.ibb.co/j4X5F7g/04-electrical.jpg",
+    "Rating": 4.9,
+    "Tag": "Electrical",
+    "Level": "Beginner",
+    "Intro": "Safely handle basic electrical tasks.",
+    "Description": "Learn to troubleshoot electrical problems, change fixtures, and understand when to call a pro.",
+    "Lecturer": "Tom White",
+    "Role": "Certified Electrician",
+    "Avatar": "https://i.ibb.co/rbMX4mM/avatar-11.jpg",
+    "StepsCount": 7,
+    "StepsTime": "1h45min",
+    "Steps": [
+      {
+        "title": "Understand Electrical Safety",
+        "description": "Safety is paramount when working with electricity. Learn the basics of electrical safety, including turning off power at the breaker box, using insulated tools, and wearing protective gear."
+      },
+      {
+        "title": "Learn to Use a Multimeter",
+        "description": "A multimeter is an essential tool for any DIYer working with electricity. Learn how to measure voltage, current, and resistance to diagnose electrical issues safely."
+      },
+      {
+        "title": "Identify Electrical Components",
+        "description": "Familiarize yourself with common electrical components such as outlets, switches, circuit breakers, and wiring. Understand their functions and how they are connected in your home's electrical system."
+      },
+      {
+        "title": "Replace Outlets and Switches",
+        "description": "Learn how to safely replace electrical outlets and switches. This includes turning off the power, removing the old component, connecting the new one, and testing it to ensure proper installation."
+      },
+      {
+        "title": "Install Light Fixtures",
+        "description": "Gain the skills to install or replace light fixtures. This involves understanding the wiring, mounting the fixture securely, and ensuring it is properly grounded."
+      },
+      {
+        "title": "Understand Circuit Breakers",
+        "description": "Learn how to identify and reset tripped circuit breakers. Understand the importance of not overloading circuits and how to distribute electrical loads safely."
+      },
+      {
+        "title": "Troubleshoot Common Electrical Problems",
+        "description": "Develop the ability to troubleshoot common electrical issues such as flickering lights, tripped breakers, and faulty outlets. Learn to diagnose problems and determine when to call a professional."
+      }
+    ]
+  },
+  {
+    "ProjectID": 5,
+    "Course": "Furniture Refinishing 101",
+    "Image": "https://i.ibb.co/Jyk8qL8/05-furniture-restoration.jpg",
+    "Rating": 4.6,
+    "Tag": "Furniture",
+    "Level": "Beginner",
+    "Intro": "Give old furniture a new life.",
+    "Description": "Learn the best techniques for refinishing and painting furniture to achieve a professional finish.",
+    "Lecturer": "Emily Brown",
+    "Role": "Furniture Restoration Expert",
+    "Avatar": "https://i.ibb.co/vmbSJRP/avatar-22.jpg",
+    "StepsCount": 5,
+    "StepsTime": "1h",
+    "Steps": [
+      {
+        "title": "Assess the Furniture",
+        "description": "Start by evaluating the piece of furniture you want to refinish. Check for any structural damage, loose joints, or missing parts. Decide if any repairs are needed before you begin the refinishing process."
+      },
+      {
+        "title": "Remove Old Finish",
+        "description": "Strip the old finish using a chemical stripper or sandpaper. Follow safety precautions, such as working in a well-ventilated area and wearing protective gloves and goggles. Remove all the old paint, varnish, or stain to reveal the bare wood."
+      },
+      {
+        "title": "Sand the Surface",
+        "description": "Sand the entire surface of the furniture to smooth out any imperfections and prepare it for the new finish. Start with a coarse grit sandpaper and gradually move to finer grits for a smooth finish. Wipe away dust with a tack cloth."
+      },
+      {
+        "title": "Apply New Finish",
+        "description": "Choose the type of finish you want to apply, such as stain, paint, or varnish. Apply the finish evenly using a brush, cloth, or spray, following the manufacturer's instructions. Allow each coat to dry thoroughly before applying additional coats."
+      },
+      {
+        "title": "Protect and Maintain",
+        "description": "Once the final coat is dry, protect the newly refinished furniture with a clear topcoat, such as polyurethane or wax. This will enhance the durability and appearance of the piece. Regularly dust and clean the furniture to maintain its finish."
+      }
+    ]
+  },
+  {
+    "ProjectID": 6,
+    "Course": "DIY Home Decor: Design on a Budget",
+    "Image": "https://i.ibb.co/LY0SVNV/06-home-decor.jpg",
+    "Rating": 4.8,
+    "Tag": "Home Decor",
+    "Level": "Beginner",
+    "Intro": "Create beautiful home decor without breaking the bank.",
+    "Description": "Learn tips and tricks for selecting paint, flooring, and accessories to transform your home.",
+    "Lecturer": "Sarah Green",
+    "Role": "Interior Designer",
+    "Avatar": "https://i.ibb.co/m4BLR3V/avatar-13.jpg",
+    "StepsCount": 10,
+    "StepsTime": "2h",
+    "Steps": [
+      {
+        "title": "Set a Budget",
+        "description": "Determine how much you can afford to spend on your home decor project. Prioritize your spending on key items and allocate funds accordingly to avoid overspending."
+      },
+      {
+        "title": "Plan Your Design",
+        "description": "Create a vision for your space by gathering inspiration from magazines, websites, and social media. Sketch out your ideas and make a list of the items you need to achieve your desired look."
+      },
+      {
+        "title": "Repurpose and Upcycle",
+        "description": "Look for items you already own that can be repurposed or upcycled. A fresh coat of paint, new hardware, or creative reimagining can give old furniture and decor a new life."
+      },
+      {
+        "title": "Shop Secondhand",
+        "description": "Visit thrift stores, flea markets, and online marketplaces for affordable decor pieces. You can often find unique items at a fraction of the cost of new ones."
+      },
+      {
+        "title": "DIY Art and Decor",
+        "description": "Create your own artwork and decor pieces. This can include painting, crafting, or even printing and framing free downloadable art. Personal touches make your space unique and save money."
+      },
+      {
+        "title": "Use Paint Strategically",
+        "description": "A fresh coat of paint can transform a room. Choose colors that complement your decor and consider accent walls to add interest without the cost of wallpaper or extensive renovations."
+      },
+      {
+        "title": "Focus on Lighting",
+        "description": "Good lighting can make a big difference in your space. Look for affordable lighting solutions like string lights, floor lamps, and DIY light fixtures to enhance the ambiance."
+      },
+      {
+        "title": "Incorporate Textiles",
+        "description": "Use textiles like throw pillows, blankets, and curtains to add color and texture to your space. These items are often inexpensive and can be easily swapped out for a fresh look."
+      },
+      {
+        "title": "Declutter and Organize",
+        "description": "A well-organized space feels more inviting. Declutter your home and invest in affordable storage solutions to keep things tidy and visually appealing."
+      },
+      {
+        "title": "Add Greenery",
+        "description": "Plants can bring life and color to any room. Look for low-maintenance, budget-friendly options like succulents or pothos. You can also propagate plants from cuttings to save money."
+      }
+    ]
+  },
+  {
+    "ProjectID": 7,
+    "Course": "Hanging Things: From TVs to Curtains",
+    "Image": "https://i.ibb.co/k6TLX6M/07-hanging-things.jpg",
+    "Rating": 4.7,
+    "Tag": "General DIY",
+    "Level": "Beginner",
+    "Intro": "Securely hang items in your home.",
+    "Description": "Learn to locate studs, fit wall anchors, and mount various items safely",
+    "Lecturer": "Jane Smith",
+    "Role": "DIY Expert",
+    "Avatar": "https://i.ibb.co/NSD3SM4/avatar-21.jpg",
+    "StepsCount": 6,
+    "StepsTime": "1h",
+    "Steps": [
+      {
+        "title": "Choose the Right Hardware",
+        "description": "Select the appropriate hardware for the item you're hanging. For heavy items like TVs, use wall mounts and anchors designed to support the weight. For lighter items like curtains, use appropriate rods and brackets."
+      },
+      {
+        "title": "Find the Studs",
+        "description": "Use a stud finder to locate the studs in your wall. Anchoring heavy items like TVs to studs provides the necessary support and prevents damage to your walls. For lighter items, you can use wall anchors if studs are not available."
+      },
+      {
+        "title": "Measure and Mark",
+        "description": "Measure the placement of your item carefully and mark the spots where you will install the hardware. Use a level to ensure your marks are even, which is crucial for items like curtain rods and TV mounts."
+      },
+      {
+        "title": "Drill Pilot Holes",
+        "description": "Drill pilot holes at your marked spots to make it easier to insert screws and reduce the risk of splitting the wall material. Use a drill bit that matches the size of your screws or anchors."
+      },
+      {
+        "title": "Install the Hardware",
+        "description": "Secure the hardware to the wall using the appropriate screws or anchors. For TV mounts, ensure all screws are tightly fastened and the mount is level. For curtain rods, make sure the brackets are evenly spaced and level."
+      },
+      {
+        "title": "Hang and Adjust",
+        "description": "Hang your item on the installed hardware. For TVs, ensure it is securely attached to the mount. For curtains, hang the curtains on the rod and adjust the length and placement as needed to achieve the desired look."
+      }
+    ]
+  },
+  {
+    "ProjectID": 8,
+    "Course": "Appliance Care & Repair",
+    "Image": "https://i.ibb.co/xjHDc6X/08-appliance-repair.webp",
+    "Rating": 4.5,
+    "Tag": "Appliances",
+    "Level": "Beginner",
+    "Intro": "Maintain and repair your home appliances.",
+    "Description": "Learn basic maintenance tasks, understand warranties, and fix common appliance issues.",
+    "Lecturer": "Lisa Black",
+    "Role": "Appliance Technician",
+    "Avatar": "https://i.ibb.co/F3ntSPC/avatar-19.jpg",
+    "StepsCount": 8,
+    "StepsTime": "1h30min",
+    "Steps": [
+      {
+        "title": "Read the Manual",
+        "description": "Start by reading the user manual for each appliance. It contains important information about proper use, maintenance, and troubleshooting specific to your appliance model."
+      },
+      {
+        "title": "Regular Cleaning",
+        "description": "Keep your appliances clean to ensure they function efficiently. For example, clean the lint filter in your dryer after each use, and regularly clean the coils on your refrigerator to improve performance."
+      },
+      {
+        "title": "Check and Replace Filters",
+        "description": "Many appliances, such as air conditioners, refrigerators, and dishwashers, have filters that need regular checking and replacement. Clean or replace filters as recommended to maintain optimal performance."
+      },
+      {
+        "title": "Inspect Hoses and Seals",
+        "description": "Regularly inspect hoses and seals on appliances like washing machines and dishwashers for signs of wear or leaks. Replace any damaged parts to prevent water damage and ensure efficient operation."
+      },
+      {
+        "title": "Monitor Performance",
+        "description": "Pay attention to how your appliances are performing. Unusual noises, longer cycle times, or decreased efficiency can be signs that maintenance or repairs are needed."
+      },
+      {
+        "title": "Perform Basic Repairs",
+        "description": "Learn to perform basic repairs, such as replacing a broken belt in a vacuum cleaner or a burnt-out light bulb in an oven. Use the manual and online resources for guidance."
+      },
+      {
+        "title": "Schedule Professional Maintenance",
+        "description": "For more complex maintenance tasks, such as servicing your HVAC system or checking the gas connections on your stove, schedule regular professional maintenance to ensure safety and efficiency."
+      },
+      {
+        "title": "Keep Spare Parts Handy",
+        "description": "Keep a stock of common spare parts, such as light bulbs, filters, and belts, so you can quickly perform minor repairs without waiting for parts to arrive."
+      }
+    ]
+  },
+  {
+    "ProjectID": 9,
+    "Course": "Window Treatments: DIY Style",
+    "Image": "https://i.ibb.co/nz8fzTh/09-windows-treatments.jpg",
+    "Rating": 4.6,
+    "Tag": "Home Decor",
+    "Level": "Beginner",
+    "Intro": "Enhance your windows with DIY treatments.",
+    "Description": "Learn to use hanging brackets, curtain rods, and design tips for beautiful window treatments.",
+    "Lecturer": "Anna Blue",
+    "Role": "Home Decor Specialist",
+    "Avatar": "https://i.ibb.co/R4hBwPB/avatar-10.jpg",
+    "StepsCount": 4,
+    "StepsTime": "30min",
+    "Steps": [
+      {
+        "title": "Measure Your Windows",
+        "description": "Accurate measurements are crucial for a perfect fit. Measure the width and height of your windows, including any trim. Note whether you want the treatments to hang inside the window frame or outside."
+      },
+      {
+        "title": "Choose Your Materials",
+        "description": "Select the type of window treatment that suits your style and needs. Options include curtains, blinds, shades, and valances. Consider the material, color, and pattern that will complement your room's decor."
+      },
+      {
+        "title": "Install Hardware",
+        "description": "Install the necessary hardware for your chosen window treatment. This may include curtain rods, brackets, or mounting clips. Use a level to ensure everything is straight and secure the hardware to the wall or window frame."
+      },
+      {
+        "title": "Hang and Adjust",
+        "description": "Hang your window treatments according to the manufacturer's instructions. Adjust the length and placement to ensure they hang evenly and function properly. Make any final tweaks to achieve the desired look."
+      }
+    ]
+  },
+  {
+    "ProjectID": 10,
+    "Course": "DIY Landscaping for Beginners",
+    "Image": "https://i.ibb.co/yXkr4BM/10-landscaping.jpg",
+    "Rating": 4.9,
+    "Tag": "Landscaping",
+    "Level": "Beginner",
+    "Intro": "Transform your yard with DIY landscaping.",
+    "Description": "Learn the basics of landscaping, including plant selection, garden design, and maintenance.",
+    "Lecturer": "Mark Green",
+    "Role": "Landscape Architect",
+    "Avatar": "https://i.ibb.co/VDm0fMg/avatar-15.jpg",
+    "StepsCount": 12,
+    "StepsTime": "2h30min",
+    "Steps": [
+      {
+        "title": "Assess Your Space",
+        "description": "Start by evaluating your yard. Note the size, shape, and existing features like trees, slopes, and structures. Consider the amount of sunlight and shade different areas receive throughout the day."
+      },
+      {
+        "title": "Set a Budget",
+        "description": "Determine how much you can afford to spend on your landscaping project. Prioritize your spending on key elements like plants, soil, and hardscaping materials."
+      },
+      {
+        "title": "Create a Plan",
+        "description": "Sketch a layout of your yard, including existing features and new elements you want to add. Plan for pathways, garden beds, seating areas, and any other features you desire."
+      },
+      {
+        "title": "Choose the Right Plants",
+        "description": "Select plants that are suitable for your climate and soil type. Consider the mature size of plants to ensure they fit well in your space. Mix perennials, annuals, shrubs, and trees for variety."
+      },
+      {
+        "title": "Prepare the Soil",
+        "description": "Test your soil to determine its pH and nutrient levels. Amend the soil with compost or other organic matter to improve its structure and fertility. Proper soil preparation is key to healthy plants."
+      },
+      {
+        "title": "Install Hardscaping",
+        "description": "Lay the foundation for pathways, patios, and other hardscaping elements. Use materials like gravel, pavers, or stone. Ensure proper drainage and a stable base to prevent shifting over time."
+      },
+      {
+        "title": "Plant Strategically",
+        "description": "Plant trees, shrubs, and larger plants first, followed by smaller plants and ground covers. Follow the planting instructions for each type of plant, including spacing and depth."
+      },
+      {
+        "title": "Mulch and Water",
+        "description": "Apply a layer of mulch around your plants to retain moisture, suppress weeds, and improve soil health. Water your plants thoroughly after planting and establish a regular watering schedule."
+      },
+      {
+        "title": "Install Irrigation",
+        "description": "Consider installing an irrigation system to ensure your plants receive consistent water. Drip irrigation and soaker hoses are efficient options that conserve water and target the root zone."
+      },
+      {
+        "title": "Add Decorative Elements",
+        "description": "Enhance your landscape with decorative elements like garden art, lighting, and furniture. These additions can create focal points and make your outdoor space more inviting."
+      },
+      {
+        "title": "Maintain Your Landscape",
+        "description": "Regular maintenance is essential for a healthy landscape. This includes weeding, pruning, fertilizing, and monitoring for pests and diseases. Keep your garden tools clean and sharp."
+      },
+      {
+        "title": "Enjoy and Adapt",
+        "description": "Spend time enjoying your new landscape and observe how it evolves. Be prepared to make adjustments as needed, such as relocating plants or adding new features to suit your preferences."
+      }
+    ]
+  }
+]
